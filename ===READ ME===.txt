@@ -1,0 +1,9 @@
+﻿
+>>>>>>>>>>>>>>>>>>>>>INFORMACII ZA PROEKTOT<<<<<<<<<<<<<<<<<<
+
+		
+		PRVO TREBA DA SE KREIRA DATABAZA POD IME ecomm 
+
+		-------ZA LOGIRANJE NA ADMIN PANELOT -----
+		email:		admin@admin.com
+		password:	password
